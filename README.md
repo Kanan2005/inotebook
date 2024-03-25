@@ -37,9 +37,9 @@ ___
 ___
 ## **Download Links** : 
 You can access my project from your local machine !
->https : https://github.com/kanan205/iNotebook
+>https : https://github.com/Kanan2005/inotebook
 
 ```bash
-    git clone https://github.com/kanan205/iNotebook.git
+    git clone https://github.com/Kanan2005/inotebook
 ```
 ___
